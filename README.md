@@ -1,4 +1,4 @@
-Clone the repo.
+### Clone the repo.
 ### `npm i`
 ### `npm start`
 ### `npm run build`
